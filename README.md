@@ -2,7 +2,7 @@ DXC Technology - Performance Improvement Plan 2022
 
 -----
 
-Applicazione realizzata CON sPRING bOOT.
+Applicazione realizzata CON Spring Boot.
 
 -----
 
