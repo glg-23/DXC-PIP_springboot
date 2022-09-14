@@ -1,2 +1,18 @@
-# DXC-PIP_springboot
-DXC Technology - Performance improvement plan (06/2022-11/2022) - 03 SPRING BOOT
+DXC Technology - Performance Improvement Plan 2022
+
+-----
+
+Applicazione realizzata CON sPRING bOOT.
+
+-----
+
+DXC Technology  
+https://dxc.com/
+
+Skillsoft Percipio  
+https://www.skillsoft.com/
+
+Skillsoft credentials wallet:  
+https://skillsoft.digitalbadges.skillsoft.com/profile/gianluigidantimi963248/wallet#gs.b1mog6
+
+-----
