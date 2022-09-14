@@ -1,4 +1,4 @@
-package com.DXC_PIP.app;
+package com.DXC_PIP;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
