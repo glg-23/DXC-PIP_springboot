@@ -10,6 +10,7 @@ public class WelcomeController {
 
     @GetMapping(value = "/welcome")
     public String welcome(@RequestParam String name, Model model) {
+        //Passare parametro nell'URL (es: /welcome?name=gianluigi)
         String messaggio = "Benvenuto " + name;
         model.addAttribute("messaggioBenvenuto", messaggio);
         return "welcomePage";
